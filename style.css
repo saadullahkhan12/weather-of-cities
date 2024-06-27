@@ -1,0 +1,61 @@
+.div {
+    height: 450px;
+    width: 350px;
+    background-color: rgb(186, 217, 252);
+    text-align: center;
+    margin: auto;
+    margin-top: 7%;
+    border-radius: 80px;
+    
+
+}
+.select{
+    text-align: center;
+    margin-left: 38px;
+    width: 26%;
+    background-color: rgb(169, 201, 201);
+    border-radius: 20px;
+}
+
+body {
+
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUYx3XPtRB1TFtpdL5in3M3PEszrcPrLWd9w&s);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    font-size: larger;
+}
+
+.select {
+    padding: 9px;
+}
+.div1{
+    display: flex;
+    gap: 20px;
+    
+
+
+
+
+}
+.hm{
+    color: rgb(196, 196, 184);
+    text-decoration: underline;
+    text-align: center;
+    font-size: 50px;
+    margin: 0;
+    margin-bottom: 20px;
+
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(109, 116, 116);
+}
+
+.main{
+    justify-content: center;
+    text-align: center;
+    margin-left: 16%;
+
+}
